@@ -16,9 +16,9 @@ __Syllabus__
 
 __Structure__
 - 2 lectures a week
-- 1 tutorial a  eek
+- 1 tutorial a  week
 
 __Assesment__
-- Coursework 1 - 30 %
-- Coursework 2 - 45 %
-- Exam - 25 %
+- Coursework 1 - 10 %
+- Coursework 2 - 20 %
+- Exam - 70 %
